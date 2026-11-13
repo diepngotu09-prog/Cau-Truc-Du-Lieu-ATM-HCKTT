@@ -1,0 +1,4 @@
+Ma so tai khoan (ID): 10014504501117
+Ten chu tai khoan: Dang Quoc Bao
+So du: 5000000
+Loai tien: VND

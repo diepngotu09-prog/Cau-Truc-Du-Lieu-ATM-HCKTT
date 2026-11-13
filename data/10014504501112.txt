@@ -1,0 +1,4 @@
+Ma so tai khoan (ID): 10014504501112
+Ten chu tai khoan: Tran Thi Mai
+So du: 2500000
+Loai tien: VND

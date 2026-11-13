@@ -1,0 +1,4 @@
+Ma so tai khoan (ID): 10010010010014
+Ten chu tai khoan: kakahtk
+So du: 0
+Loai tien: VND
