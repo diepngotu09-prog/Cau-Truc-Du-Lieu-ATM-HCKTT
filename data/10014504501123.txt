@@ -1,4 +1,0 @@
-Ma so tai khoan (ID): 10014504501123
-Ten chu tai khoan: Nguyen Van An
-So du: 2000000
-Loai tien: VND

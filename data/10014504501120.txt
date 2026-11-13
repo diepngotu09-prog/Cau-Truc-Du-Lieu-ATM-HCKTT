@@ -1,4 +1,0 @@
-Ma so tai khoan (ID): 10014504501120
-Ten chu tai khoan: Ngo Van Long
-So du: 1500000
-Loai tien: VND
